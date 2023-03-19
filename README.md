@@ -1,4 +1,4 @@
-# Adventure-Game
+# Journey-Game
 
 This game is a choice journey game that sets the user on a journey to escape captivity. 
 
