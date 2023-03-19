@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vangt
+ *
+ */
+module Journeygame {
+}
